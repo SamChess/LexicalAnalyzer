@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1603439092 source:d:\compilerconstruction\lab1\main.cpp
+	"main.hpp"
+	"mainFunctions.cpp"
+
+1603443223 d:\compilerconstruction\lab1\main.hpp
+	<iostream>
+	<math.h>
+
+1603449409 d:\compilerconstruction\lab1\mainfunctions.cpp
+	"main.hpp"
+
